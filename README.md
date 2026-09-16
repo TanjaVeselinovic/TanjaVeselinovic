@@ -10,7 +10,7 @@ I work on enterprise web applications. I design flows and components in Figma, t
 
 ## Background
 
-My background is electrical engineering (BEng, Faculty of Electrical Engineering, University of East Sarajevo), and I am finishing a Master's degree in Computer Science and Informatics. Engineering taught me to think in systems: I care about what happens under the interface, not only on it. Earlier internships in Java and Spring Boot backend development mean I read an API contract as a peer, not just a consumer.
+My background is electrical engineering (BEng, Faculty of Electrical Engineering, University of East Sarajevo), and I am finishing a Master's degree in Computer Science and Informatics. Engineering taught me to think in systems. I care about what happens under the interface, not only on it. Earlier internships in Java and Spring Boot backend development mean I read an API contract as a peer, not just a consumer.
 
 ## Toolbox
 
