@@ -16,7 +16,7 @@ My background is electrical engineering (BEng, Faculty of Electrical Engineering
 
 - **Frontend:** React, TypeScript, Mantine, component architecture, typed REST clients
 - **Design:** Figma, user flows, component libraries, UX research, accessibility
-- **Backend and tooling:** Java, Spring Boot, PostgreSQL, Python, Docker, Git
+- **Backend and tooling:** Java, Spring Boot, PostgreSQL, Python, Docker
 
 ## Publications
 
